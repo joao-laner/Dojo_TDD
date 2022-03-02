@@ -1,6 +1,6 @@
 # Dojo_TDD
 
-###Tech Stack
+### Tech Stack
 
 * [Java 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 * [JUnit 5.7](https://junit.org/junit5/docs/current/release-notes/index.html)
