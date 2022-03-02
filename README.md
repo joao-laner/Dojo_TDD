@@ -6,11 +6,11 @@
 * [JUnit 5.7](https://junit.org/junit5/docs/current/release-notes/index.html)
 * [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=mac) (opcional)
 
-###Pre-requirements
+### Pre-requirements
 * Java SDK 11 Installed
 * IntelliJ CE Installed
 
-###Description
+### Description
 
 * A popular store wants you to create a program that manages discounts in order to improve sales 
 For this, given the set of rules, apply the discounts for the products:
